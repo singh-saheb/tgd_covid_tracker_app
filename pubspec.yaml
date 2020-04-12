@@ -26,6 +26,7 @@ dependencies:
   url_launcher:
   shared_preferences:
   http:
+  dynamic_theme:
 
 dev_dependencies:
   flutter_test:
