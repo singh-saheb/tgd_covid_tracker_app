@@ -1,16 +1,18 @@
-# tgd_covid_tracker
+# TGD COVID TRACKER
+An open-sourced Mobile application to track the COVID-19 cases made using Flutter. Complete applicaion with crisp UI and full API Integration.
 
-A new Flutter application.
+![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/temidtech/flutter-cheat-sheet/master/LICENSE)
 
-## Getting Started
+![alt text](/ss1.png) ![alt text](/covid-dark.png) 
+![alt text](/covid-search.png) 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Features:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  - Get worldwide COVID-19 cases
+  - Coutry-wise data
+  - Added Dark mode 
+  - Realtime search based on country name
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Coming soon:
+  - Data to be shown in the form of pie chart
